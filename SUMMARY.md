@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
+
+## Patterns
+
+* [Monotonic Queue](patterns/monotonic-queue.md)
 
