@@ -2,7 +2,9 @@
 
 ## Monotonic Stack
 
-### What is it?
+### Monotonic Stack
+
+#### What is it?
 
 Stack is a very simple sturcuture. It is used in problems where we want the elements to follow the first-in-first-out \(FIFO\) pattern.
 
@@ -24,7 +26,7 @@ Below is the complete implementation for a monotonic non-deceasing stack:
 
 Find some numbers and try it yourself if you are still not sure.
 
-### When to use it?
+#### When to use it?
 
-### Practice problems
+#### Practice problems
 

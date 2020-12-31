@@ -4,8 +4,6 @@
 
 ## Patterns
 
----
-
-* [Test](test.md)
-* [Monotonic Stack](monotonic-stack.md)
+* [Test](patterns/test.md)
+* [Monotonic Stack](patterns/monotonic-stack.md)
 
