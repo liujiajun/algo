@@ -6,5 +6,6 @@
 
 ---
 
+* [Test](test.md)
 * [Monotonic Stack](monotonic-stack.md)
 
