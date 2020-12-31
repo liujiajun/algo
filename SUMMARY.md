@@ -4,5 +4,3 @@
 
 ## Patterns
 
-* [Monotonic Queue](patterns/monotonic-queue.md)
-
