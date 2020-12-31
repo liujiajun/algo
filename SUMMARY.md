@@ -4,3 +4,7 @@
 
 ## Patterns
 
+---
+
+* [Monotonic Stack](monotonic-stack.md)
+
